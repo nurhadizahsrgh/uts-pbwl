@@ -1,0 +1,19 @@
+{
+    "name": "dizah/uts-nurhadizah",
+    "description": "UTS Pemrograman Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "nurhadizah",
+            "email": "dizahsaragih30@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+}
